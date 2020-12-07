@@ -1,0 +1,16 @@
+# binary constraints
+constraint, t2 starts-at t1
+constraint, t3 after t1
+
+# hard domain constraints
+domain, t1 starts-after tue 9am
+domain, t3 starts-before tue 12pm
+
+# soft deadline constraints
+domain, t1 ends-by wed 2pm 20
+domain, t3 ends-by wed 2pm 20
+
+# tasks with name and duration
+task, t2 2
+task, t1 4
+task, t3 4
