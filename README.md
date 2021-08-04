@@ -9,3 +9,4 @@ Toxic Comment Classification Challenge
 #### 1. Logistic Regression: logisticRegression.py
 #### 2. LinearSVC: linearSVC.py
 #### 3. TextCNN+FastText: textCNN.py
+### Before runing the textCNN.py, [FastText](https://www.kaggle.com/yekenot/fasttext-crawl-300d-2m) should be downloaded in the same folder.
