@@ -1,6 +1,6 @@
 Toxic Comment Classification Challenge
 ====
-### data folder contains the [dataset](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data) ---- train.csv, test.csv, test_labels.csv
+### data folder contains the [dataset](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data) ---- train.csv, test.csv, test_labels.csv, sample_submission.csv
 ### There are three steps to implement the project
 #### 1. data analysis: data_analysis.ipynb 
 #### 2. feature extraction: feature_extraction.ipynb
